@@ -1,5 +1,4 @@
 # Si puedes imaginarlo, pudedes programarlo
-
 import turtle
 import colorsys
 
