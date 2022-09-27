@@ -4,4 +4,4 @@ Aplicación desarrollada con las llibrerias turtle y colorsys con el fín de sim
 
 - Imagen 
 
-<img width="476" alt="purple python" src="https://user-images.githubusercontent.com/94796234/192436942-3da9ba6b-e7fb-4f9e-9db4-fa27ad7a9546.PNG">
+<img width="468" alt="python-purple" src="https://user-images.githubusercontent.com/94796234/192438376-1514cf11-e03f-4353-b52b-2261f3df59d4.PNG">
